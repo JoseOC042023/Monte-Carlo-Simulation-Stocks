@@ -1,4 +1,4 @@
-# Monte Carlo Risk Simulator 📊
+# Monte Carlo Risk Simulator
 
 This project simulates stock prices using **Geometric Brownian Motion (GBM)** and estimates **Value-at-Risk (VaR)** for multiple assets.
 
