@@ -2,7 +2,7 @@
 
 A Python-based financial risk analysis tool that uses **Geometric Brownian Motion (GBM)** to simulate stock price paths and calculate **Value-at-Risk (VaR)** for portfolio risk management.
 
-## 🎯 Overview
+## Overview
 
 This project simulates thousands of potential stock price trajectories using Monte Carlo methods based on historical price data. It provides risk metrics including:
 - Average expected price paths
@@ -19,7 +19,7 @@ This project simulates thousands of potential stock price trajectories using Mon
 - **Visualization**: Comprehensive plots comparing simulated vs. actual price paths
 - **Multi-Asset Support**: Currently tracks AAPL, GS, MSFT, and CAT
 
-## 🔧 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.7 or higher
