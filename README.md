@@ -102,7 +102,7 @@ Where:
 Monte-Carlo-Simulation-Stocks/
 │
 ├── Stock_Monte_Sim.py                    # Main simulation script
-├── AAPL_GS_MSFT_CAT_5_Year_Close_Price_Data - Static Data.csv #Historical Stock Data
+├── AAPL_GS_MSFT_CAT_5_Year_Close_Price_Data - Static Data.csv # Historical Stock Data
 ├── README.md                              # This file
 ```
 
