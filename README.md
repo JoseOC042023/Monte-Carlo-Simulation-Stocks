@@ -96,7 +96,7 @@ Where:
 - **SD Bands (Blue)**: One standard deviation range showing typical volatility
 - **Actual Price (Purple)**: Real market performance for validation
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Monte-Carlo-Simulation-Stocks/
@@ -106,11 +106,11 @@ Monte-Carlo-Simulation-Stocks/
 ├── README.md                              # This file
 ```
 
-## 🔍 Example Results
+## Example Results
 
 For the period from January 2025 to October 2025:
 
-| Ticker | Starting Price | Avg End Price | 95% VaR Return |
+| Ticker | Starting Price | Avg End Price | 95% VaR Return | 
 |--------|---------------|---------------|----------------|
 | AAPL   | $188.38      | $209.65      | 24.18%         |
 | GS     | $470.81      | $506.16      | 27.80%         |
@@ -129,17 +129,9 @@ For the period from January 2025 to October 2025:
 ##  Future Enhancements
 
 - [ ] Add correlation matrix for multi-asset portfolio simulation
-- [ ] Implement additional models (Jump Diffusion, GARCH)
-- [ ] Create interactive dashboard with Plotly
 - [ ] Add portfolio optimization features
 - [ ] Include transaction costs and dividends
 - [ ] Expand to more asset classes (options, bonds)
-
-##  References
-
-- Black, F., & Scholes, M. (1973). "The Pricing of Options and Corporate Liabilities"
-- Hull, J. C. (2018). "Options, Futures, and Other Derivatives"
-- Jorion, P. (2006). "Value at Risk: The New Benchmark for Managing Financial Risk"
 
 ##  License
 
@@ -149,12 +141,8 @@ This project is open source and available under the MIT License.
 
 **Jose Marcos O'Carroll**
 - GitHub: [@JoseOC042023](https://github.com/JoseOC042023)
-- LinkedIn: [Jose](https://www.linkedin.com/in/jose-marcos-o-carroll-871721183/)
+- LinkedIn: [Jose Marcos O'Carroll](https://www.linkedin.com/in/jose-marcos-o-carroll-871721183/)
 
 ##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
